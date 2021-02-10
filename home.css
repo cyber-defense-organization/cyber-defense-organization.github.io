@@ -57,6 +57,17 @@ h3{
 	text-decoration: underline;
 	font-size: 24px;
 }
+h4{
+	font-weight: bold;
+	font-size: 22px;
+	text-align: left;
+}
+#footer{
+	background-color: purple;
+	color: #C0C0C0;
+	height: 25%;
+
+}
 
 p {
 	font-weight: bold;
